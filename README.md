@@ -1,2 +1,2 @@
 # hello-world
-菜鸟第一次学用Github
+新手菜鸟第一次学用Github
